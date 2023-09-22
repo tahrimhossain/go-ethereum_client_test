@@ -1,0 +1,1 @@
+[{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"val","type":"uint256"}],"name":"DataStored","type":"event"},{"inputs":[],"name":"compute","outputs":[],"stateMutability":"nonpayable","type":"function"}]
